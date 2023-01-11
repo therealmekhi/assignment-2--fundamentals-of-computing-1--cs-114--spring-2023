@@ -28,7 +28,7 @@ This repo contains the following files, all required to carry out this assignmen
 01. `Makefile` — Run `make` in your command line interface, or CLI, from this repo’s root folder to build your assignment. As you test input, run `make run` to _only_ run a previously-compiled Java program, not compile it. Run `make clean` to remove the class file.
 02. `.editorconfig` — Everything in this file is a redundancy of what’s already in the `.editorconfig` file you installed in your home folder. It’s here to make sure you’re working with the formatting rules defined in `.editorconfig`, as this is part of the neatness portion of your grade. **Ensure EditorConfig is working in VS Code, _before_ beginning this assignment.**
 03. `.gitignore` — **Do not modify this file.**
-04. `Assignment2.java` — Where you will do your assignment. **Do not** write your code in anything _other_ than this file.
+04. `Diamond.java` — Where you will do your assignment. **Do not** write your code in anything _other_ than this file.
 
 ---
 

@@ -1,4 +1,4 @@
-public class Assignment2 {
+public class Diamond {
   public static void main(String[] args) {
   }
 }

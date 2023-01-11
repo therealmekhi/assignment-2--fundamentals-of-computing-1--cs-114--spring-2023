@@ -1,4 +1,4 @@
-filename = Assignment2
+filename = Diamond
 
 all: compile run
 
