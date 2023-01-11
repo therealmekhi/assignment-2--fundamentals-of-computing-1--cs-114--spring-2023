@@ -15,8 +15,6 @@
 
 For this assignment, you’ll be writing a program that accepts input from the user in the form of an integer, then creates a diamond whose width (in columns) and height (in rows) are dictated by user input. For example, if the user enters 5, then the height of the diamond is 5 rows and the width of the diamond is 5 columns. See [http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4](http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4).
 
-The elements in the diagonal **must not be touched**, while the other elements in the matrix **must be swapped**. The content in every cell of the matrix is arbitrary; each cell could have contained a letter, string, image, or other object/primitive. Integers are being used in this assignment because they produce content that is easy to track while working with the matrix.
-
 **Important Note**: Odd and even versions of the diamond are rendered differently. Review the aforementioned video carefully for an example.
 
 ---
